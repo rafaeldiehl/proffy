@@ -3,7 +3,7 @@
     <p>Plataforma de ensino online usando React, TypeScript e Node. Desenvolvida durante a NLW (Next Level Week) #2.</p>
 </div>
 
-### Tecnologias
+### Tecnologias utilizadas
 
 - React
 - TypeScript
@@ -15,14 +15,13 @@
 ### Rodando o projeto localmente
 
 #### Requisitos
-Tenha o [Node.js](https://nodejs.org/en/), [NPM](https://www.npmjs.com/) (ou [Yarn](https://classic.yarnpkg.com/lang/en/)) e [Git](https://git-scm.com/) instalados na sua máquina.
+Tenha o [Node.js](https://nodejs.org/en/), [NPM](https://www.npmjs.com/) (ou [Yarn](https://classic.yarnpkg.com/lang/en/)) e [Git](https://git-scm.com/) instalados na sua máquina
 ```
 sudo apt install nodejs
 sudo apt install yarn
 sudo apt install git
 ```
-#### Clone este repositório
-Use o seguinte comando no seu terminal.
+Clone este repositório
 ```
 git clone https://github.com/rafaeldiehl/proffy.git
 ```
