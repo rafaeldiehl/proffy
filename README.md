@@ -37,7 +37,7 @@ Este projeto foi desenvolvido durante a Next Level Week #2, evento promovido pel
 
 Requisitos:
 - [Node.js](https://nodejs.org/en/)
-- [Yarn](https://classic.yarnpkg.com/lang/en/) (ou [NPM](https://www.npmjs.com/) )
+- [Yarn](https://classic.yarnpkg.com/lang/en/) (ou [NPM](https://www.npmjs.com/))
 - [Git](https://git-scm.com/)
 
 Clone este repositório:
