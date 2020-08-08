@@ -1,6 +1,6 @@
 <div align="center">
 <h1><img src="./.github/logo.png" alt="Proffy" width="250"></h1>
-<h3>Sua plataforma de estudos online.</h3>
+<h3>Sua plataforma de estudos online</h3>
 
 <p align="center">
 
