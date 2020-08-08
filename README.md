@@ -24,7 +24,7 @@ sudo apt install git
 #### Clone este repositório
 Use o seguinte comando no seu terminal.
 ```
-git clone https://github.com/rafaeldiehl/nautilus-calculus.git
+git clone https://github.com/rafaeldiehl/proffy.git
 ```
 
 #### Cliente
